@@ -4,6 +4,7 @@ charset-normalizer==2.0.12
 idna==3.3
 proxylist==0.1.4
 requests==2.27.1
+requests-random-user-agent==2022.9.7
 six==1.16.0
 soupsieve==2.3.1
 urllib3==1.26.8
